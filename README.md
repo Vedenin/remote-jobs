@@ -214,14 +214,11 @@ Name | Website | Region
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
-[Ebury](/company-profiles/ebury.md) | https://ebury.com/ | Worldwide
-[Edgio](/company-profiles/edgio.md) | https://edg.io/ | Worldwide
-[Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
-[eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
+
+
+Name | Website | Region
+------------ | ------- | -------
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[Elsewhen](/company-profiles/elsewhen.md) | https://www.elsewhen.com/ | UK
-[Embraer](/company-profiles/embraer.md) | https://embraer.com/ | Brazil
-[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
 [Encora](/company-profiles/encora.md) | https://careers.encora.com/ | Worldwide
 [EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
