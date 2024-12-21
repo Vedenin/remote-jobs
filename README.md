@@ -13,30 +13,16 @@ Name | Website | Region
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
-[1Password](/company-profiles/1password.md) | https://www.1password.com | North America, UK
 [37signals](/company-profiles/37signals.md) | https://37signals.com | Worldwide
 [3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
-[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
-[Acivilate](/company-profiles/acivilate.md) | https://acivilate.com/ | USA
 [Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
-[ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
-[Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
-[Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
-[AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
 [Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
 [Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
-[AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
-[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
-[Aerostrat](/company-profiles/aerostrat.md) | https://aerostratsoftware.com/ | USA
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
-[Aha!](/company-profiles/aha.md) | https://www.aha.io | North America, South America, United Kingdom, Ireland, Australia, South Africa
-[Aiir](/company-profiles/aiir.md) | https://aiir.com/ | USA, UK
-[Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [AirGarage](/company-profiles/airgarage.md) | https://www.airgarage.com/ | USA
 [AirTreks](/company-profiles/airtreks.md) | https://www.airtreks.com/ | USA
@@ -228,12 +214,9 @@ Name | Website | Region
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
-[EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
-[EatStreet](/company-profiles/eatstreet.md) | https://eatstreet.com/ | USA
-[EBSCO Information Services](/company-profiles/ebsco-information-services.md) | https://www.ebsco.com | USA
+
+
 [Ebury](/company-profiles/ebury.md) | https://ebury.com/ | Worldwide
-[Eco-Mind](/company-profiles/eco-mind.md) | https://eco-mind.eu/ | Italy
-[Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA, Canada
 [Edgio](/company-profiles/edgio.md) | https://edg.io/ | Worldwide
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
 [eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
