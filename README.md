@@ -214,8 +214,6 @@ Name | Website | Region
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
-
-
 [Ebury](/company-profiles/ebury.md) | https://ebury.com/ | Worldwide
 [Edgio](/company-profiles/edgio.md) | https://edg.io/ | Worldwide
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
