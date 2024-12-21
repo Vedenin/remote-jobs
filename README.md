@@ -219,24 +219,13 @@ Name | Website | Region
 Name | Website | Region
 ------------ | ------- | -------
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[Encora](/company-profiles/encora.md) | https://careers.encora.com/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
-[Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
-[Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
-[Entrision](/company-profiles/entrision.md) | https://entrision.com/ | USA
-[Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
-[Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada, Colombia
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
-[Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
 [Epilocal](/company-profiles/epilocal.md) | https://www.epilocal.com/ | Worldwide
-[Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Epsy Health](/company-profiles/epsy-health.md) | https://epsyhealth.com/ | Worldwide
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
-[Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
 [Etch](/company-profiles/etch.md) | https://etch.co | UK, Europe
 [Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
-[EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Exoscale](/company-profiles/exoscale.md) | https://www.exoscale.com | Europe
@@ -244,74 +233,44 @@ Name | Website | Region
 [Extreme Networks](/company-profiles/extreme-networks.md) | https://www.extremenetworks.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
-[Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
-[Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ | Worldwide
 [FATMAP](/company-profiles/fatmap.md) | https://about.fatmap.com/careers | Europe
 [Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
-[FDTE](/company-profiles/fdte.md) | https://fdte.org.br/ | Brazil
 [Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
 [FFW Agency](/company-profiles/ffw-agency.md) | https://ffwagency.com/ | Worldwide
-[Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
 [Findem](/company-profiles/findem.md)| https://www.findem.ai/| UTC+ WorldWide 
 [Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fingerprint](/company-profiles/fingerprint.md) | https://fingerprint.com | Worldwide
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
-[Fireball Labs](/company-profiles/fireball-labs.md) | https://www.fireballlabs.com | Germany
 [FireHire](/company-profiles/firehire.md) | https://www.firehire.ai | WorldWide
-[FIS GLOBAL](/company-profiles/fis-global.md) | https://www.fisglobal.com/ | USA, UK, Asia
-[Fiverr](/company-profiles/fiverr.md) | https://www.fiverr.com/ | North America, Asia
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Fleetio](/company-profiles/fleetio.md) | https://www.fleetio.com/ | WorldWide
-[Flexera](/company-profiles/flexera.md)  | https://www.flexera.com/ | USA
-[FlightAware](/company-profiles/flightaware.md) | https://flightaware.com | USA
-[Flip](/company-profiles/flip.md) | https://flip.id | Indonesia
-[Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
 [Fly.io](/company-profiles/fly-io.md) | https://fly.io | Worldwide
-[FMX](/company-profiles/fmx.md) | https://www.gofmx.com/ | USA
 [Focusnetworks](/company-profiles/focusnetworks.md) | https://focusnetworks.com.br | Worldwide
 [fohandboh](/company-profiles/fohandboh.md) | https://fohandboh.com/ | Worldwide
 [folotop](/company-profiles/folotop.md) | https://folotop.com/ | Worldwide
 [Formidable](/company-profiles/formidable.md) | https://www.formidable.com/ | USA, Canada, UK, Europe
 [Formstack](/company-profiles/formstack.md) | https://www.formstack.com/ | Worldwide
-[Four Kitchens](/company-profiles/four-kitchens.md) | https://fourkitchens.com/ | North America, Latin America
 [Fraudio](/company-profiles/fraudio.md) | https://www.fraudio.com/ | Europe
 [Freeagent](/company-profiles/freeagent.md) | https://www.freeagent.com/ | Worldwide
-[Freeletics](/company-profiles/freeletics.md) | https://www.freeletics.com/ | Germany, Poland, Portugal
 [Friday Finance](/company-profiles/friday-finance.md)| https://www.fridayfinance.com/ | Europe, Americas, Africa, Western Asia
-[Fuel Made](/company-profiles/fuel-made.md) | https://fuelmade.com/ | Western North America
 [FullFabric](/company-profiles/full-fabric.md) | https://fullfabric.com/ | Europe
 [Functionize](/company-profiles/functionize.md) | https://www.functionize.com/ | Worldwide
-[Gaggle](/company-profiles/gaggle.md) | https://www.gaggle.net/ | USA
-[Geckoboard](/company-profiles/geckoboard.md) | https://www.geckoboard.com | UK
 [General Assembly](/company-profiles/general-assembly.md) | https://generalassemb.ly/ | Worldwide
-[GEO Jobe](/company-profiles/geo-jobe.md) | https://www.geo-jobe.com/ | USA
-[Gerencianet](/company-profiles/gerencianet.md) | https://gerencianet.com.br | Brazil
 [GFT](/company-profiles/gft.md) | https://www.gft.com/ | Asia, Europe, Latin America, North America
 [Ghost Foundation](/company-profiles/the-ghost-foundation.md) | https://ghost.org/ | Worldwide
-[Ghost Inspector](/company-profiles/ghost-inspector.md) | https://ghostinspector.com | North America, Latin America, Caribbean
-[Giant](/company-profiles/giant.md) | https://giantmade.com | UK
 [Giant Swarm](/company-profiles/giant-swarm.md) | https://giantswarm.io | Europe
-[GigSalad](/company-profiles/gigsalad.md) | https://www.gigsalad.com/ | USA
-[Gitbook](/company-profiles/gitbook.md)  | https://www.gitbook.com/ | France
 [GitHub](/company-profiles/github.md) | https://github.com/ | Worldwide
 [GitLab](/company-profiles/gitlab.md) | https://about.gitlab.com/ | Worldwide
 [GitPrime](/company-profiles/gitprime.md) | https://gitprime.com/ | Worldwide
 [Glenn Website Design](/company-profiles/glenn-website-design.md) | https://glennwebsitedesign.com/ | Worldwide
 [Glitch](/company-profiles/glitch.md) | https://www.glitch.com/ | Worldwide
-[Gluware](/company-profiles/gluware.md) | https://gluware.com/ | USA, UK
 [GMBapi](/company-profiles/gmbapi.md) | https://www.gmbapi.com/ | Worldwide
 [GoDaddy](/company-profiles/godaddy.md) | https://www.godaddy.com/ | Worldwide
 [GoHiring](/company-profiles/gohiring.md) | https://www.gohiring.com/ | Worldwide
-[Gojob](/company-profiles/gojob.md) | https://gojob.com/ | France
-[Gorman Health Group](/company-profiles/gorman-health-group.md) | https://conveyhealthsolutions.com/ | USA
-[GotSoccer](/company-profiles/got-soccer.md) | https://www.gotpro.com/ | USA
 [Grafana Labs](/company-profiles/grafana.md) | https://grafana.com/ | USA and EMEA/EST Timezones
 [Granicus](/company-profiles/granicus.md) | https://granicus.com/ | USA, UK, Australia, India
 [Graylog](/company-profiles/graylog.md) | https://www.graylog.org/ | Worldwide
-[GreenStitch.io](/company-profiles/greenstitch-io.md) | https://greenstitch.io | India
-[Gremlin](/company-profiles/gremlin.md) | https://gremlin.com | USA
-[Gridium](/company-profiles/gridium.md) | https://gridium.com | USA
 [Groove](/company-profiles/groove.md) | https://www.groovehq.com | Worldwide
 [Grou.ps](/company-profiles/grou-ps.md) | https://build.gr.ps | Worldwide
 [Grubhub](/company-profiles/grubhub.md) | https://www.grubhub.com/ | USA / Worldwide
@@ -322,9 +281,7 @@ Name | Website | Region
 [Happy Cog](/company-profiles/happy-cog.md) | https://happycog.com/ | USA
 [Harvest](/company-profiles/harvest.md) | https://www.getharvest.com/ | Worldwide
 [Hashex](/company-profiles/hashex.md) | https://hashex.org/ | US, Asia, Europe
-[HashiCorp](/company-profiles/hashicorp.md) | https://www.hashicorp.com/ | USA, CA, UK, DE, FR, NL, AU, JPN
 [HE:labs](/company-profiles/he-labs.md) | https://www.helabs.com | Worldwide
-[Headforwards](/company-profiles/headforwards.md) | https://www.headforwards.com | UK
 [Headway](/company-profiles/headway.md) | https://www.headway.io/ | USA
 [Healthfinch](/company-profiles/healthfinch.md) | https://www.healthfinch.com/ | USA
 [Heap](/company-profiles/heap.md) | https://heapanalytics.com/ | Worldwide
