@@ -8,8 +8,8 @@ Contributions are very welcome! Please [review our contributing guidelines](http
 
 ## Companies
 
-Name | Website | Region
------------- | ------- | -------
+Name | Website | Region | Skills
+------------ | ------- | ------- | -------
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
@@ -153,10 +153,6 @@ Name | Website | Region
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
-
-
-Name | Website | Region | Skills
------------- | ------- | ------- | -------
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
 [Epilocal](/company-profiles/epilocal.md) | https://www.epilocal.com/ | Worldwide
