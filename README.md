@@ -14,10 +14,8 @@ Name | Website | Region | Skills
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide | React.js & TypeScript
 [Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe | Shopify+Liquid+PHP+JavaScript
-[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
-[Appcues](/company-profiles/appcues.md) | https://www.appcues.com/ | Worldwide
-[Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
-[Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
+[Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe  | AI+Python+ML+AWS
+[Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide | Many
 [Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
