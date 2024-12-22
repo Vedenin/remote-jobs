@@ -513,11 +513,10 @@ Name | Website | Region | Skills
 [Wildbit](/company-profiles/wildbit.md) | https://wildbit.com/ | Worldwide
 [Wizeline](/company-profiles/wizeline.md) | https://www.wizeline.com/ | Worldwide
 [Wolfram](/company-profiles/wolfram.md) | https://www.wolfram.com | Worldwide
-[WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide
-[X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
-[Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide
-[XWP](/company-profiles/xwp.md) | https://xwp.co/ | Worldwide
-[YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe | Mobile, iOS
-[Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide | Python/Java
+[WP-Media](/company-profiles/wp-media.md) | https://wp-media.me/ | Worldwide 
+[X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide | React, Angular, Vue.js, Node.js OR Symfony PHP
+[Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide | Python + Data + GCP + SQL 
+[YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe | Mobile+iOS
+[Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide | Python+Java
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide | Python 
-[ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide | React,Next.js,Node.js,NFT
+[ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide | React, Next.js, Node.js, NFT
