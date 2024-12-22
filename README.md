@@ -16,8 +16,7 @@ Name | Website | Region | Skills
 [Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe | Shopify+Liquid+PHP+JavaScript
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe  | AI+Python+ML+AWS
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide | Many
-[Applied AI Company (AAICO)](/company-profiles/applied-ai-company-aaico.md) | https://www.aaico.com/ | Worldwide
-[Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
+[Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide  | ?
 [argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
