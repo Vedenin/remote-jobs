@@ -13,10 +13,6 @@ Name | Website | Region | Skills
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress+PHP+React.js OR WordPress+React.js
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide | React.js & TypeScript
-[AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
-[Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
-[Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
-[ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
