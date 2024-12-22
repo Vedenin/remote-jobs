@@ -12,13 +12,7 @@ Name | Website | Region | Skills
 ------------ | ------- | ------- | -------
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress+PHP+React.js OR WordPress+React.js
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
-[42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
-[90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
-[Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
-[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
-[Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
+[90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide | React.js & TypeScript
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
 [Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
