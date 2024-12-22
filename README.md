@@ -10,11 +10,8 @@ Contributions are very welcome! Please [review our contributing guidelines](http
 
 Name | Website | Region | Skills
 ------------ | ------- | ------- | -------
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
-[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
-[17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
-[37signals](/company-profiles/37signals.md) | https://37signals.com | Worldwide
-[3Blocks](/company-profiles/3blocks.md) | https://3blocks.io/ | Worldwide
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress+PHP+React.js OR WordPress+React.js
+[15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
 [42 Technologies](/company-profiles/42-technologies.md) | https://www.42technologies.com/ | Worldwide
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide
 [Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
