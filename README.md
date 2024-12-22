@@ -155,8 +155,8 @@ Name | Website | Region
 [DynaPictures](/company-profiles/dynapictures.md) | https://dynapictures.com/ | Worldwide
 
 
-Name | Website | Region
------------- | ------- | -------
+Name | Website | Region | Skills
+------------ | ------- | ------- | -------
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
 [Epilocal](/company-profiles/epilocal.md) | https://www.epilocal.com/ | Worldwide
@@ -517,15 +517,7 @@ Name | Website | Region
 [X-Team](/company-profiles/x-team.md) | https://x-team.com/ | Worldwide
 [Xapo](/company-profiles/xapo.md) | https://xapo.com/ | Worldwide
 [XWP](/company-profiles/xwp.md) | https://xwp.co/ | Worldwide
-[Yahoo!](/company-profiles/yahoo.md) | https://www.yahooinc.com/ | Worldwide
-[Yandex](/company-profiles/yandex.md) | https://yandex.com/ | Worldwide
-[YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe
-[Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide
-[Yonder](/company-profiles/yonder.md) | https://www.yonder.io | Worldwide
-[You Need A Budget](/company-profiles/you-need-a-budget.md) | https://www.youneedabudget.com/ | Worldwide
-[YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) | https://youcanbook.me | Worldwide
-[Zaneffi](/company-profiles/zaneffi.md) | https://zaneffi.com/ | Worldwide
-[Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
-[ZenRows](/company-profiles/zenrows.md) | https://www.zenrows.com/ | Worldwide
-[Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
-[ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide
+[YAZIO](/company-profiles/yazio.md) | https://www.yazio.com/en/jobs | Europe | Mobile, iOS
+[Yodo1](/company-profiles/yodo1.md) | https://www.yodo1.com/en/ | Worldwide | Python/Java
+[Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide | Python 
+[ZooTools](/company-profiles/zootools.md) | https://zootools.co/ | Worldwide | React,Next.js,Node.js,NFT
