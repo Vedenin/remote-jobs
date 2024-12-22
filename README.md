@@ -13,11 +13,7 @@ Name | Website | Region | Skills
 [10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | WordPress+PHP+React.js OR WordPress+React.js
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide | React.js & TypeScript
-[Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
-[Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
-[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
-[Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
-[Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe
+[Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe | Shopify+Liquid+PHP+JavaScript
 [Andela](/company-profiles/andela.md) | https://andela.com/ | Worldwide
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Appcues](/company-profiles/appcues.md) | https://www.appcues.com/ | Worldwide
