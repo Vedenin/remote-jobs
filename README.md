@@ -14,7 +14,6 @@ Name | Website | Region | Skills
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas | Python+Django+JavaScript 
 [90 Seconds](/company-profiles/90-seconds.md) | https://90seconds.com/ | Worldwide | React.js & TypeScript
 [Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe | Shopify+Liquid+PHP+JavaScript
-[Andela](/company-profiles/andela.md) | https://andela.com/ | Worldwide
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Appcues](/company-profiles/appcues.md) | https://www.appcues.com/ | Worldwide
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
