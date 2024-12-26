@@ -18,7 +18,7 @@ Name | Website | Region | Skills
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide | Many
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide  | ?
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
-[Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia
+[Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia | Node.js or C#+React or Java or Kotlin or Go or Scala or Python,
 [Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
