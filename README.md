@@ -19,10 +19,6 @@ Name | Website | Region | Skills
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide  | ?
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia | Node.js or C#+React or Java or Kotlin or Go or Scala or Python,
-[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | Worldwide
-[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | USA, Europe
-[Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
-[Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
 [Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | Worldwide
 [Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
