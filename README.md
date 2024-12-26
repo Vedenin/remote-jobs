@@ -31,13 +31,6 @@ Name | Website | Region | Skills
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
-[Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
-[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
-[Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
-[BandLab](/company-profiles/bandlab.md) | https://bandlab.com/ | Worldwide
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
 [BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
