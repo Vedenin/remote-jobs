@@ -20,8 +20,6 @@ Name | Website | Region | Skills
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia | Node.js or C#+React or Java or Kotlin or Go or Scala or Python,
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide | Many + Polish
-[Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Calibre](/company-profiles/calibre.md) | https://calibreapp.com/ | Worldwide
 [Canonical](/company-profiles/canonical.md) | https://www.canonical.com/ | Worldwide
 [Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
