@@ -17,14 +17,7 @@ Name | Website | Region | Skills
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe  | AI+Python+ML+AWS
 [Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide | Many
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide  | ?
-[argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
-[ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
-[Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
-[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Asana](/company-profiles/asana.md) | https://asana.com/ | Worldwide
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Atento](/company-profiles/atento.md) | https://atento.gupy.io | Brazil, Mexico and EMEA
+[Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia
 [Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
 [Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
