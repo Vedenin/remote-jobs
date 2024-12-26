@@ -20,12 +20,6 @@ Name | Website | Region | Skills
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia | Node.js or C#+React or Java or Kotlin or Go or Scala or Python,
 [Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide | Many + Polish
-[Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
-[Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
-[Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
-[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
-[Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
 [Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
 [BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Calibre](/company-profiles/calibre.md) | https://calibreapp.com/ | Worldwide
