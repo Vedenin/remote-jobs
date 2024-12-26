@@ -19,11 +19,6 @@ Name | Website | Region | Skills
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide  | ?
 [Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide | Ruby on Rails, React.js, Redux
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia | Node.js or C#+React or Java or Kotlin or Go or Scala or Python,
-[Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
-[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
-[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
-[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 [Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
 [BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
